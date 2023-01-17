@@ -1,0 +1,5 @@
+Default	False	0.5	3
+JLC7628-100d-50s	True	0.2	2
+PWR	False	0.5	3
+PWR_LAN	False	0.5	3
+False	True	True

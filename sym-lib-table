@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "PCIexpress")(type "Legacy")(uri "${KIPRJMOD}/../Library/PCIexpress.lib")(options "")(descr ""))
+  (lib (name "pcie-ethernet-rescue")(type "Legacy")(uri "${KIPRJMOD}/pallas-ethernet-adapter-rescue.lib")(options "")(descr ""))
+  (lib (name "pcie-ethernet")(type "KiCad")(uri "${KIPRJMOD}/pcie-ethernet.kicad_sym")(options "")(descr ""))
+)
