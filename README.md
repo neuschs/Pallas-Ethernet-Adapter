@@ -1,6 +1,7 @@
 # Pallas-Ethernet-Adapter
 Open source PCIe ethernet adapter based on LAN7430
 
+More information can be found on my blog: https://sebis-workshop.de/uncategorized/pallas-ethernet-adapter/
 
 # Credits
 Thanks to the KiCAD PCIe template project:
