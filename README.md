@@ -9,6 +9,7 @@ https://github.com/lucanastasio/PCIexpress-KiCad
 
 
 # License
-This documentation describes Open Hardware and is licensed under the CERN OHL v.1.2.
+The Logo - the Pallas Cat - may not be redistributed, made public elsewhere or modified and is property of the author. 
 
-You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions.
+This describes Open Hardware and is licensed under the CERN OHL v.1.2.
+You may redistribute and modify this under the terms of the CERN OHL v.1.2. (http://ohwr.org/cernohl). This is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions.
