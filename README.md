@@ -3,6 +3,15 @@ Open source PCIe ethernet adapter based on LAN7430
 
 More information can be found on my blog: https://sebis-workshop.de/uncategorized/pallas-ethernet-adapter/
 
+
+# Ordering and production parameters
+So far I've just ordered the PCBAs and waiting to test my prototypes.
+In the folder jlcpcb are the files from this KiCAD plugin located:
+https://github.com/Bouni/kicad-jlcpcb-tools
+
+Including position correction for some parts so the pick'n'place file is correct (please check before usage).
+
+
 # Credits
 Thanks to the KiCAD PCIe template project:
 https://github.com/lucanastasio/PCIexpress-KiCad
