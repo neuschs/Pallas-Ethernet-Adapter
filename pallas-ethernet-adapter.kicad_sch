@@ -1447,6 +1447,15 @@
     (uuid fcb1e588-8959-49f2-9248-692ca7d88b73)
   )
 
+  (text "Orange" (at 242.57 35.56 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8ad992d7-38ee-4a1e-995d-15eab12d3cb0)
+  )
+  (text "Green" (at 242.57 50.8 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e7472a18-4292-4405-8a91-bae9fc402d85)
+  )
+
   (label "LAN_JTAG_TDI" (at 166.37 85.09 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 01aa66ec-c204-46db-9471-dbd88931ac4e)
