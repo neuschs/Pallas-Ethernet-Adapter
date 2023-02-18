@@ -525,7 +525,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "documentation/pallas-ethernet-adapter.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
